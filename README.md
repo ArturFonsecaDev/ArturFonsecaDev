@@ -62,8 +62,8 @@ I'm a Computer Information Systems student and aspiring web developer. I have a 
 ---
 
 ## ☑️ Let's Connect?
-- **LinkedIn**: [https://www.linkedin.com/in/arturf-fonseca/]
-- **Email**: [sgsartur@hotmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/arturf-fonseca/](MyLinkedIn)
+- **Email**: [sgsartur@hotmail.com](sgsartur@hotmail.com)
 
 ---
 
