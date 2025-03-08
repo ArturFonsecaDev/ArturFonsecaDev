@@ -19,17 +19,12 @@ I'm a Computer Information Systems student and aspiring web developer. I have a 
 ### Front-end
 - **HTML, CSS, JS**
 - **Bootstrap**
-- **Vue.js 2.6** (with Vue CLI, Vue Router, Vuex, Quasar, Vue Mask)
+- **Vue.js** (with Vue CLI, Vue Router, Vuex, Quasar, Vue Mask)
 
 ### Databases
 - **MariaDB**
 - **PostgreSQL**
 - **Relational Databases** (general experience)
-
-### Tools
-- JetBrains IDEs
-- Vite
-- Vue CLI
 
 ---
 
