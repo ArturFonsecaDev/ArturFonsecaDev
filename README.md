@@ -1,6 +1,6 @@
 # Hello, I'm Artur Fonseca! 👋
 
-I'm a Computer Information Systems student and aspiring web developer. I have a passion for learning new technologies and building creative, efficient solutions. This repository showcases my learning journey and projects I've worked on, whether at work, university, or as a hobby.
+I'm a Computer Information Systems student and a web developer. I have a passion for learning new technologies and building creative, efficient solutions. This repository showcases my learning journey and projects I've worked on, whether at work, university, or as a hobby.
 
 ---
 
@@ -15,23 +15,35 @@ I'm a Computer Information Systems student and aspiring web developer. I have a 
 ### Back-end Frameworks and Tools
 - **Django** (and Django Rest Framework)
 - **Laravel 10 and 11**
+- **Redis**
+- **WebSockets**
 
 ### Front-end
-- **HTML, CSS, JS**
+- **Vue.js**
+- **React**
+- **TailWind**
 - **Bootstrap**
-- **Vue.js** (with Vue CLI, Vue Router, Vuex, Quasar, Vue Mask)
+- **JQuery**
 
 ### Databases
 - **MariaDB**
 - **PostgreSQL**
 - **Relational Databases** (general experience)
 
+### Development Tools
+- **Docker**
+- **Docker Compose**
+- **CI Tools**
+
 ---
 
 ## ⚔️ Experience
 
 ### Professional
-- Currently a software development intern, focusing on Laravel, Vue.js, and PostgreSQL.
+- Currently a software developer, focusing on Laravel, Vue.js, React and PostgreSQL.
+
+- **TypeBot and Live Chat**: Implemented a live chat with multi tenant support with integrations with Whatsapp API and typebot flows.
+  
 - **Q&A System**: A web system developed in Laravel during my internship, with no access control in the administrative area, focusing on simplicity and functionality.
 - Practical experience in creating and maintaining APIs, developing interactive front-end features, and managing relational databases.
 
@@ -44,7 +56,7 @@ I'm a Computer Information Systems student and aspiring web developer. I have a 
 ---
 
 ## 📚 Goals
-- Expand my knowledge in web technologies such as Vue.
+- Expand my knowledge in web technologies.
 - Learn more about real-time systems, like applications for games.
 - Become a highly skilled full-stack developer.
 
