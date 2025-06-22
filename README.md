@@ -65,7 +65,7 @@ I'm a Computer Information Systems student and a web developer. I have a passion
 ## 🎮 Fun Facts
 - I'm developing an online chess game as a hobby.
 - I love learning by doing, whether it's building APIs, web systems, or refining programming logic.
-- 
+  
 ---
 
 ## ☑️ Let's Connect?
