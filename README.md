@@ -7,14 +7,11 @@ I'm a Computer Information Systems student and a web developer. I have a passion
 ## ✨ Skills
 
 ### Programming Languages
-- **Python**
 - **JavaScript**
 - **PHP**
-- **C**
 
 ### Back-end Frameworks and Tools
-- **Django** (and Django Rest Framework)
-- **Laravel 10 and 11**
+- **Laravel 10*
 - **Redis**
 - **WebSockets**
 
@@ -24,11 +21,6 @@ I'm a Computer Information Systems student and a web developer. I have a passion
 - **TailWind**
 - **Bootstrap**
 - **JQuery**
-
-### Databases
-- **MariaDB**
-- **PostgreSQL**
-- **Relational Databases** (general experience)
 
 ### Development Tools
 - **Docker**
