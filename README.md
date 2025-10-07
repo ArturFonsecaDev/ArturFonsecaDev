@@ -1,31 +1,16 @@
-# Hello, I'm Artur Fonseca! 👋
-
-I'm a Computer Information Systems student and a web developer. I have a passion for learning new technologies and building creative, efficient solutions. This repository showcases my learning journey and projects I've worked on, whether at work, university, or as a hobby.
+![Header](./github-header-banner.png)
 
 ---
 
 ## ✨ Skills
 
-### Programming Languages
-- **JavaScript**
-- **PHP**
+| Category | Key Technologies & Experience |
+| :--- | :--- |
+| **Backend & Core** | **Laravel (Ecosystem)**, PHP, **Redis**, WebSockets, Queues/Jobs, Relational Databases (PostgreSQL) |
+| **Frontend** | **Vue.js**, **React**, Tailwind CSS, Bootstrap, JQuery, Blade |
+| **DevOps & Tools** | Docker, Docker Compose, CI Tools |
+| **Languages** | JavaScript, PHP |
 
-### Back-end Frameworks and Tools
-- **Laravel 10*
-- **Redis**
-- **WebSockets**
-
-### Front-end
-- **Vue.js**
-- **React**
-- **TailWind**
-- **Bootstrap**
-- **JQuery**
-
-### Development Tools
-- **Docker**
-- **Docker Compose**
-- **CI Tools**
 
 ---
 
@@ -36,21 +21,14 @@ I'm a Computer Information Systems student and a web developer. I have a passion
 
 - **TypeBot and Live Chat**: Implemented a live chat with multi tenant support with integrations with Whatsapp API and typebot flows.
   
-- **Q&A System**: A web system developed in Laravel during my internship, with no access control in the administrative area, focusing on simplicity and functionality.
-- Practical experience in creating and maintaining APIs, developing interactive front-end features, and managing relational databases.
-
-### Personal Projects
-- **Todo App**: A kanban management system ensuring that each user can only access their own tasks. Implemented with Django Rest Framework.
-
-### Academic
-- Building a strong foundation in programming languages like C and exploring new areas such as Vue.js and Laravel, with practical applications in coursework and personal projects.
+- **Healthcare Management (E-saude):** Key contributor to healthcare system, developing features that streamline main hospital activities and management across the country. (NOW)
 
 ---
 
 ## 📚 Goals
 - Expand my knowledge in web technologies.
 - Learn more about real-time systems, like applications for games.
-- Become a highly skilled full-stack developer.
+- Become a highly skilled and more valuable full-stack developer
 
 ---
 
