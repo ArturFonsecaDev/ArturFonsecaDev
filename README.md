@@ -1,7 +1,3 @@
-![Header](./github-header-banner.png)
-
----
-
 ## ✨ Skills
 
 | Category | Key Technologies & Experience |
