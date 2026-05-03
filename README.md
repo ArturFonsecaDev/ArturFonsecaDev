@@ -18,7 +18,7 @@ const artur: SoftwareEngineer = {
   
   stack: {
     backend:    ["Laravel", "Node.js", "TypeScript"],
-    frontend:   ["React", "TypeScript"],
+    frontend:   ["React", "Vue", "TypeScript"],
     practices:  ["System Design", "Clean Architecture", "Performance Tuning"]
   },
   
